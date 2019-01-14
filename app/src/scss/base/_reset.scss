@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
+button, input, textarea, select {
+    outline: none;
+}
+
+button, a {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+.swiper-pagination-bullet-active {
+    background: #ffffff !important;
+}
